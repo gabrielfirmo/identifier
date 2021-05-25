@@ -1,4 +1,4 @@
-Este projeto tem o objetivo de auxiliar no estudo de testes funcionais utilizando a ferramenta JUnit. Para isso foi utilizado o programa *Identifier* como base.
+Este projeto tem o objetivo de auxiliar no estudo de testes unitários utilizando a ferramenta JUnit. Para isso foi utilizado o programa *Identifier* como base.
 
 ### Recursos utilizados
 - Java 11
